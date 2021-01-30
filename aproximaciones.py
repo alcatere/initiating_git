@@ -1,7 +1,7 @@
 
 numero = int(input("Introduce un numero: "))
 
-epsilon = 0.0001
+epsilon = 0.01
 paso = epsilon**2
 respuesta = 0
 
